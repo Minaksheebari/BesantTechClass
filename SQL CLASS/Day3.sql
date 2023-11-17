@@ -24,7 +24,7 @@ SET address = 'MP'
 WHERE empid=102;
 
 -- DELETE particular row from table
-DELETE FROM employee where empid=103;
+DELETE FROM employee where firstname='Yash';
 
 -- DELETE all rows from table
 DELETE FROM employee;
