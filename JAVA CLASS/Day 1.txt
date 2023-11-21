@@ -1,0 +1,10 @@
+1) Where we use JAVA in real life? 
+
+In mobile applications
+In Web Apps
+In Software
+In AI
+In houshold applications like Microwave, Washing machine, Remote based smartfans, lights, Television, car dashboard
+
+In ATMs
+In IoTs
