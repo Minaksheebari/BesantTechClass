@@ -25,6 +25,3 @@ select * from student order by age,marks desc;
 
 #group by
 
-#how to delete a col, 
-#how to rename a col name, 
-#how to add a new constraint in an existing col
