@@ -8,3 +8,5 @@ In houshold applications like Microwave, Washing machine, Remote based smartfans
 
 In ATMs
 In IoTs
+
+
