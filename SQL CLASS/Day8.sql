@@ -1,6 +1,7 @@
 #Joins
 
 select * from employee;
+select * from employee;
 select * from employee2;
 
 #Inner join
